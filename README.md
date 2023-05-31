@@ -19,8 +19,11 @@ This project is built using HTML5 & CSS.
 
 ## Credits
 
-Credits to Coding Bootcamp and tutorial on Gitlab:
+Credits to Coding Bootcamp and tutorials on Gitlab:
 https://git.bootcampcontent.com/Monash-University/MONU-VIRT-FSF-PT-05-2023-U-LOLC
+    
+Code source:
+https://github.com/coding-boot-camp/urban-octo-telegram
 
 
 ## License
