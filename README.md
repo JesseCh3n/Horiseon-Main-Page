@@ -13,9 +13,9 @@ N/A.
 
 This project is built using HTML5 & CSS.
 
-    ```md
-    ![alt screenshot](./Develop/assets/images/brand-awareness.png)
-    ```
+```md
+![alt screenshot](./Develop/assets/images/brand-awareness.png)
+```
 
 ## Credits
 
